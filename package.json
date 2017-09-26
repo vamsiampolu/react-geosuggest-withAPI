@@ -1,0 +1,16 @@
+{
+  "name": "react-geosuggest-withAPI",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "github:vamsiampolu/react-geosuggest-withAPI",
+  "author": "vamsiampolu <vamsiampolu3000@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^15.6.2",
+    "react-dom": "^15.6.2",
+    "redux": "^3.7.2",
+    "redux-saga": "^0.15.6",
+    "styled-components": "^2.1.2",
+    "webpack": "^3.6.0"
+  }
+}
